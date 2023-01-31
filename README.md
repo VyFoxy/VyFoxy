@@ -1,5 +1,6 @@
 <h1 align="center">❄️ Thái Mai Khánh Vy ❄️</h1>
-<h3 align="center">A third-year Information Technology student, majoring in Software Engineering, looking to develop a passion for making software, particularly in solving front-end problems.</h3>
+<h3 align="center">A third-year Information Technology student, majoring in Software Engineering</h3>
+<h3 align="center">, looking to develop a passion for making software, particularly in solving front-end problems.</h3>
 
 
 - 👩‍🎓 I’m currently learning **Software Engineering at Ho Chi Minh University of Sciences**

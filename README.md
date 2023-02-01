@@ -1,6 +1,8 @@
+<img align="right" alt="Codig" width="100" src="https://i.imgur.com/zBKXYuJ.gif">
+<img align="center" alt="Codig" width="100" src="https://i.imgur.com/zBKXYuJ.gif">
 <h1 align="center">🦊 Thái Mai Khánh Vy 🦊</h1>
 <h3 align="center">A third-year Information Technology student, majoring in Software Engineering, looking to develop a passion for making software, particularly in solving front-end problems.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 👩‍🎓 I’m currently learning **Software Engineering at Ho Chi Minh University of Sciences**
 

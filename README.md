@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 👩‍🎓 I’m currently learning **Software Engineering at Ho Chi Minh University of Sciences**
+- ⚡ Fun fact: I'm a part-time dancer 💃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
